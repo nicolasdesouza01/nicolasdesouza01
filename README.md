@@ -1,4 +1,4 @@
-# 👨‍💻 Nícolas Souza
+# 👨‍💻 Nicolas Souza
 
 <kbd>Desenvolvedor Full Stack</kbd>
 
