@@ -1,7 +1,8 @@
-### Olá, eu sou o Nícolas 👋
+# 👨‍💻 Nícolas Souza
 
-Full Stack Developer | Amante da programação e ciência.
-Graduando em ADS.
+<kbd>Desenvolvedor Full Stack</kbd>
+
+Me chamo Nícolas, tenho 20 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar. Sou apaixonado por programação e fascinado por ciência e meteorologia.
 
 ---
 
